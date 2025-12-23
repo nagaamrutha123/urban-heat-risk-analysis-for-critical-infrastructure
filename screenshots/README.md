@@ -1,1 +1,1 @@
-Project screenshots.
+Project screenshots - Folium map and Streamlit_app 
