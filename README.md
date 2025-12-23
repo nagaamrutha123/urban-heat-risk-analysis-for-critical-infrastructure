@@ -21,6 +21,13 @@ This framework is designed for prioritisation, not prediction.
 - Interactive Folium map visualising hospital risk levels
 - Streamlit application for decision-support exploration
 
+## How It Works
+
+1. Pulls hospital locations from OpenStreetMap
+2. Assigns heat exposure proxy
+3. Calculates risk score
+4. Visualises on Folium and via Streamlit
+
 ## Tools
 Python, GeoPandas, OSMnx, Folium, Streamlit
 
