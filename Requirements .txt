@@ -1,0 +1,8 @@
+geopandas
+osmnx
+folium
+streamlit
+pandas
+numpy
+shapely
+pyproj
