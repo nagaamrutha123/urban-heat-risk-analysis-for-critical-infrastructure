@@ -21,6 +21,15 @@ This framework is designed for prioritisation, not prediction.
 - Interactive Folium map visualising hospital risk levels
 - Streamlit application for decision-support exploration
 
+## Screenshots
+
+### Hospital Heat Risk Map (Folium)
+![Hospital Heat Risk Map](screenshots/folium_map.png)
+
+### Streamlit Decision-Support View
+![Streamlit App](screenshots/streamlit_app_screenshot.png)
+
+
 ## How It Works
 
 1. Pulls hospital locations from OpenStreetMap
